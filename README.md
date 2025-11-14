@@ -1,14 +1,14 @@
 # Finance-management-system
-<h2>Group of finance management system Project</h2> 
+<h2 color:"red">Group of finance management system Project</h2> 
 
 <br>
 <br>
-<h1>1.Tulsi Mandal-Group Leader</h1>
+<h3>1.Tulsi Mandal-Group Leader</h3>
 <br>
-<h1>2.Pujan Kamti-Supervisor</h1>
+<h3>2.Pujan Kamti-Supervisor</h3>
 <br>
-<h1>3.Sandipa Thapa-Team Member</h1>
+<h3>3.Sandipa Thapa-Team Member</h3>
 <br>
-<h1>4.Ronisha Chauhan-Team Mamber</h1>
+<h3>4.Ronisha Chauhan-Team Mamber</h3>
 <br>
-<h1>5.Uday Yadav-Team Mamber</h1>
+<h3>5.Uday Yadav-Team Mamber</h3>
