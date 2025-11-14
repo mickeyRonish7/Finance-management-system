@@ -1,15 +1,14 @@
 # Finance-management-system
 <h2>Group of finance management system Project</h2> 
+
 <br>
-This is for project managing
 <br>
+1.<h1>Tulsi Mandal-Group Leader</h1>
 <br>
-1.Tulsi Mandal-Group Leader
+2.<h1>Pujan Kamti-Supervisor</h1>
 <br>
-2.Pujan Kamti-Supervisor
+3.<h1>Sandipa Thapa-Team Member</h1>
 <br>
-3.Sandipa Thapa-Team Member
+4.<h1>Ronisha Chauhan-Team Mamber</h1>
 <br>
-4.Ronisha Chauhan-Team Mamber
-<br>
-5.Uday Yadav-Team Mamber
+5.<h1>Uday Yadav-Team Mamber</h1>
