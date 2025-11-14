@@ -1,7 +1,8 @@
 # Finance-management-system
-This is for project manageing 
+<h2>Group of finance management system Project</h2> 
 <br>
-Group of finance management system Project
+This is for project managing
+<br>
 <br>
 1.Tulsi Mandal-Group Leader
 <br>
