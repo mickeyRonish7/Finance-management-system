@@ -3,12 +3,12 @@ This is for project manageing
 <br>
 Group of finance management system Project
 <br>
-Tulsi Mandal-Group Leader
+1.Tulsi Mandal-Group Leader
 <br>
-Pujan Kamti-Supervisor
+2.Pujan Kamti-Supervisor
 <br>
-Sandipa Thapa-Team Member
+3.Sandipa Thapa-Team Member
 <br>
-Ronisha Chauhan-Team Mamber
+4.Ronisha Chauhan-Team Mamber
 <br>
-Uday Yadav-Team Mamber
+5.Uday Yadav-Team Mamber
