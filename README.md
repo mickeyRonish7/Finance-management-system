@@ -3,12 +3,12 @@
 
 <br>
 <br>
-1.<h1>Tulsi Mandal-Group Leader</h1>
+<h1>1.Tulsi Mandal-Group Leader</h1>
 <br>
-2.<h1>Pujan Kamti-Supervisor</h1>
+<h1>2.Pujan Kamti-Supervisor</h1>
 <br>
-3.<h1>Sandipa Thapa-Team Member</h1>
+<h1>3.Sandipa Thapa-Team Member</h1>
 <br>
-4.<h1>Ronisha Chauhan-Team Mamber</h1>
+<h1>4.Ronisha Chauhan-Team Mamber</h1>
 <br>
-5.<h1>Uday Yadav-Team Mamber</h1>
+<h1>5.Uday Yadav-Team Mamber</h1>
